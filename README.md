@@ -6,5 +6,5 @@
 
 # Description:
 
-**This is The Documentation of PROXY SERVER minor which had done by me in 
+**This is The Documentation of PROXY SERVER minor project which had done by me in 
 BCA - 3rd YEAR.**
